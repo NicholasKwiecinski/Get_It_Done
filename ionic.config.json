@@ -1,0 +1,8 @@
+{
+  "name": "Get_It_Done",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
