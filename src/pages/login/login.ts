@@ -34,7 +34,7 @@ export class LoginPage {
      console.log(result);
 
      if(result) {
-     this.navCtrl.push('HomePage');
+     this.navCtrl.setRoot('HomePage');
      }
 
     }catch (e) {
